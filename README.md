@@ -1,18 +1,19 @@
 - 👋 Hi, I’m @jradtke-rgs (James Radtke - a Solutions Architect @RancherGOV).  This is NOT an official Repo.
 - 👀 I’m interested in ... 
-  - All Things SUSE: Linux, Hybrid-Cloud/Edge, Kubernetes, Observability, AI, Security, Storage, Virtualization.  
+  - All Things RGS and SUSE: Linux, Hybrid-Cloud/Edge, Kubernetes, Observability, AI, Security, Storage, Virtualization.  
   - Most things Cloud Native
   - Most things Kubernetes
   - Some things old school tech 
 - 🌱 I’m currently working on... 
-  - SUSE demo environment on-prem
+  - RGS demo environment on-prem
   - SUSE demo environment in AWS
+  - RGS demo environment in AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 I have more random content in my [personal Github - cloudxabide](https://github.com/cloudxabide)
 
-- This is not an official SUSE repo.  My jradtke-rgs Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
+- This is not an official RGS or SUSE repo.  My jradtke-rgs Git Repo is a collection of stuff I use personally.  My HomeLab, interests (NVIDIA), etc..
 - What this Repo is not: a training program or curriculum.   There are many other folks already doing a great job at that.
 
 | Service - Username      | URL                                       |
